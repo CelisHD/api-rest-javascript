@@ -1,0 +1,1 @@
+console.log('API URL = https://dfdfefed.com/fgfgr api key=' + API_KEY)
